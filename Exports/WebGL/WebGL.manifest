@@ -1,0 +1,8 @@
+ManifestFileVersion: 1
+CompatibilityAssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: apartment_default_0
+      Hash: a1163046cfcf72c7f9222ae38b5bdba2
+      CRC: 670080623
+      Dependencies: {}
